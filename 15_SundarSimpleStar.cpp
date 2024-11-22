@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowPosition(0, 0);
 	glutInitWindowSize(500, 500);
-	glutCreateWindow("Jiyas Window");
+	glutCreateWindow("Jiya's Window");
 	init();
 	glutDisplayFunc(art);
 	glutMainLoop();

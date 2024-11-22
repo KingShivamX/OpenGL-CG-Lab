@@ -111,7 +111,7 @@ int main(int argc, char* argv[])
 
 
 
-//  3rd cube
+//  3D cube
 
 
 

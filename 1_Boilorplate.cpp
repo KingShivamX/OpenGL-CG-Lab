@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(500, 500);
 	glutInitWindowPosition(300, 100);
-	glutCreateWindow("opengl");
+	glutCreateWindow("u know its window");
 	init();
 	glutDisplayFunc(draw);
 	glutMainLoop();
